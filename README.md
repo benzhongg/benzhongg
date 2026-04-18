@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Ben Zhong, and I have a goal to work on compilers.
-#### You can check out my work here at github and more at my personal site -> [benzhongg.com](benzhongg.com)
+#### You can find me on github -> [../benzhongg](https://github.com/benzhongg) and on my personal site -> [benzhongg.com](https://benzhongg.com)
 #### Shoot me a message if you have any advice/edits/questions!!!
 
 - 🌱 I'm currently learning compilers, ml, and ml compilers @ UIUC + my own. 
