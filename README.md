@@ -1,7 +1,6 @@
-## Hi! 👋
-### I'm Benjamin Zhong, and I want to learn as much game on software engineering as possible.
-#### You can find me on github -> [../benzhongg](https://github.com/benzhongg) and on my personal site -> [benzhongg.com](https://benzhongg.com)
-#### Shoot me a message if you have any advice/edits/questions!!!
+## Hi! 👋 I'm Ben, and I want to absorb as much game on software engineering as possible.
+#### My github -> [../benzhongg](https://github.com/benzhongg) and my personal site -> [benzhongg.com](https://benzhongg.com)
+#### Please shoot me a message if you have any thoughts, advice, or questions!!!
 
 - 🌱 I'm currently learning cpp, compilers, ml, and ml compilers @ UIUC + my own. 
 - 🤔 I’m looking for help with all things c++. 
