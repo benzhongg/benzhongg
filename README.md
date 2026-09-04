@@ -1,4 +1,4 @@
 ## [benzhongg.com](https://benzhongg.com)
 
-- 🌱 Learning compilers & ml compilers 
+- 🌱 Interests in compilers & ml compilers 
 - 📫 contact@benzhongg.com
